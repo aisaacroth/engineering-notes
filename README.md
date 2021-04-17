@@ -43,3 +43,6 @@ engineering, and that's ok.
 ## Why are you doing this?
 Because I thought it would be a fun thought exercise, and a way to help others.
 It also gives me something to think about over the weekend.
+
+### Contact Info
+If you have any questions, you can reach out to me on twitter: @aisaacroth
