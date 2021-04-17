@@ -28,6 +28,10 @@ Now, you are probably thinking:
 
 That's great. Take a note of it, and backlog it. If you have a project manager,
 tell them about it. That idea could help shift the product's roadmap later on.
-Unless the client asked for the feature, it is superfluous.
+Unless the client asked for the feature, it is superfluous _right now_.
 
+Your goal is to get the feature to the client ASAP, and any extra features risk
+slowing that process down. 
+
+### Product's Goal
 _It is product's mission to determine what you build, not how you build it._
