@@ -11,8 +11,8 @@ that I am a half-decent engineer.
 ## Who are you?
 I'm just a guy from New York, who is a software developer by trade. I like math
 and I like building things, but I don't write code in my free time. I've never
-been a person who thinks to automate his whole life and I don't think I can
-change the world by being some programming prodigy. 
+been a person who thinks to automate his whole life and I am not trying to change
+the world with these notes.
 
 I've been programming professionally for a few years now, and all of that time
 has been in the start-up world so I have seen some shit. I have experience 
